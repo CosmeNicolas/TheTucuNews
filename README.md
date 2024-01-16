@@ -1,6 +1,6 @@
 # The Tucu-News
 
-Cree un diario de noticias donde su descripcion al ver el mismo por preferencia personal quise que estuviera en ingles y mostrar solo los titulos del mismo con un filtrado de categorias por temas "
+Cree un proyecto de un diario donde , se pueden visualizar , eligiendo las categorias que nos interesen , noticias de todas partes del munod 📰🗺️🤙"
 
 ## Librerias y Framewroks 🎨
 
