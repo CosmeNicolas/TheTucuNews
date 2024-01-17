@@ -29,7 +29,7 @@ Una vez que todas las dependencias estén instaladas, puedes ejecutar la aplicac
 
 Este comando iniciará el servidor de desarrollo proporcionado por Vite.
 
-## API - NesData
+## API - NesData 🌐
 - [NewsData](https://newsdata.io/)
 
 ## Deploy del Proyecto 💻
